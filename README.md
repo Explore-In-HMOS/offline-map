@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # Offline Map
 Offline map demo for HarmonyOS wearables: browse a map, download the current view as OpenStreetMap tiles, and render downloaded tiles offline via a tile overlay.
